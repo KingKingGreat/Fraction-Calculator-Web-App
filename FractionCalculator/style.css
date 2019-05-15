@@ -1,0 +1,14 @@
+<style>
+	#aText {
+		color: rgb(0, 0, 255);
+	}
+	#rText {
+		color: rgb(0, 255, 0);
+	}
+	#eText {
+		color: rgb(255, 0, 0);
+	}
+	input, select {
+		margin: 10px;
+	}
+</style>
